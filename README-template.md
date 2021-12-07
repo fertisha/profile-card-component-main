@@ -26,8 +26,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [repo]()
-- Live Site URL: [final result]()
+- Solution URL: [repo](https://github.com/fertisha/profile-card-component-main.git)
+- Live Site URL: [final result](https://fertisha.github.io/profile-card-component-main/)
 
 
 ### Built with
